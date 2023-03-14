@@ -1,0 +1,22 @@
+
+.logo{
+    width:150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right:100px;
+}
+p{
+    display: inline;
+    margin-right:15px;
+    color: gray;
+}
+.title{
+    height:50px;
+}
+div{
+    display: inline;
+}
+.extra{
+      margin-left:170px;
+}
+
